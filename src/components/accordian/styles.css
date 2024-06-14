@@ -8,7 +8,7 @@
     background-color: rgb(235, 235, 235);
     gap: 20px;
 }
-.wrapper button {
+/* .wrapper button {
     padding: 10px 20px;
     background: green;
     border: none;
@@ -16,10 +16,10 @@
     font:600 1rem Arial;
     font-weight: 400;
     cursor: pointer;
-}
-.wrapper button:active{
+} */
+    /* .wrapper button:active{
     background: red;
-}
+} */
 
 .accordian {
     width: 500px;
@@ -33,6 +33,7 @@
 
 .title {
     color: whitesmoke;
+    font-weight: 400;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,4 +43,5 @@
 .content {
     color: #fff;
     height: auto;
+    padding: 20px;
 }

@@ -3,3 +3,18 @@
     box-sizing: border-box;
     font-family: Arial;
 }
+
+button {
+    padding: 20px 30px;
+    background: rgb(34, 34, 34);
+    border: none;
+    color: #fff;
+    font:600 1rem Arial;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+button:active{
+    background: #dadada;
+    color: #1a1919;
+}

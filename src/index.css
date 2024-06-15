@@ -12,6 +12,7 @@ button {
     font:600 1rem Arial;
     font-weight: 400;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 button:active{
